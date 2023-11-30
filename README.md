@@ -1,0 +1,5 @@
+-   プロジェクトの作成: rye init {project-name}
+-   Python インタプリタバージョンの指定: rye pin {py-version}
+-   パッケージの追加指定: rye add {package-name}
+-   パッケージの削除指定: rye remove {package-name}
+-   仮想環境の作成・更新、パッケージのインストール: rye sync
